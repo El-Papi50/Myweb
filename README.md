@@ -15,7 +15,7 @@ I am an Engineer with interest in Ethical Hacking, speaking, travelling and expl
 - 🚀 I’m also actively interested in collaborations.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: lotannaokagbue2022@gmail.com
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1057831" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Earl.Papi.png" alt="Your Image Badge" />
 
 <br>
 <br>
